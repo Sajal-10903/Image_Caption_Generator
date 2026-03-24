@@ -1,0 +1,12 @@
+streamlit
+numpy
+pillow
+tensorflow
+ultralytics
+deep-translator
+google-generativeai
+transformers
+torch
+torchvision
+nltk
+tqdm
