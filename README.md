@@ -48,7 +48,7 @@ The inference pipeline runs sequentially through four major AI systems:
 
 ---
 
-## 🚀 Installation & Setup
+## 🚀 Installation & How to Run
 
 **1. Clone the repository**
 ```bash
